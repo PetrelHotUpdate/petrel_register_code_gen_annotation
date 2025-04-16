@@ -1,6 +1,6 @@
 name: petrel_register_code_gen_annotation
 description: 雨燕热更新注册代码生成注解
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/PetrelHotUpdate/petrel_register_code_gen_annotation
 
 environment:
