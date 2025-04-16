@@ -3,5 +3,10 @@ class PetrelRegisterClass {
 }
 
 class PetrelRegisterMethod {
-  const PetrelRegisterMethod();
+  final String customConverter;
+  const PetrelRegisterMethod({this.customConverter = ''});
+}
+
+class PetrelRegisterMethodParam {
+  const PetrelRegisterMethodParam();
 }
